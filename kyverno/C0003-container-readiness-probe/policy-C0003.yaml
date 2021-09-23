@@ -40,4 +40,4 @@ spec:
         spec:
           containers:
           - readinessProbe:
-              periodSeconds: "?*"
+              periodSeconds: ">0"

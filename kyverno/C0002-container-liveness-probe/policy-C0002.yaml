@@ -40,4 +40,4 @@ spec:
         spec:
           containers:
           - livenessProbe:
-              periodSeconds: "?*"
+              periodSeconds: ">0"
